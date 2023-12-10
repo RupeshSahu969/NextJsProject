@@ -6,6 +6,10 @@ const page = () => {
         
       <h1>Post</h1>
 
+
+
+      
+
     </div>
   )
 }
